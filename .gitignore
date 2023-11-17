@@ -35,3 +35,5 @@ terraform.rc
 
 extra-topics
 extra-topics/*
+
+remote-kp.pem
